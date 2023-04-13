@@ -20,4 +20,4 @@
 
 ##
 
-![snake gif](https://github.com/atilaap/atilaap/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/atilaap/atilaap/blob/output/github-contribution-grid-snake.svg)
